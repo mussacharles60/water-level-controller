@@ -1,4 +1,8 @@
-
+/*
+* project: water level controller 
+* based microcontroller - (ATMEGA328p)
+* credits: mussacharles60@gmail.com (@mussacharles60)
+*/
 
 #define TRIG_PIN 9
 #define ECHO_PIN 10
